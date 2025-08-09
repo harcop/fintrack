@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Next.js build output
+.next/
+
+# Environment files
+.env*
+
+# Build output
+out/
+dist/
+build/
+
+# Test coverage
+coverage/
+
+# Logs
+*.log
+pnpm-debug.log
+
+# MacOS system files
+*.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Others
+*.local
